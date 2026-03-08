@@ -5,7 +5,7 @@ technical safeguards in Amazon Web Services. Written specifically for
 healthcare IT teams who need to get compliant, not just get certified.
 
 **Built and maintained by 
-[Teknikally Speaking](https://github.com/jesmanderson)** — 
+[Teknikally Speaking](https://github.com/jesmanderson)** -
 Houston-based cloud security and GRC consultancy specializing in 
 healthcare.
 
